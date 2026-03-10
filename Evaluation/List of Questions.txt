@@ -1,0 +1,35 @@
+What/who are the organizational entites which carry out functions?
+What are the devices used?
+What are the services that are carried out by software?
+What are the resources have been defined?
+What is the name of the organization that is represented in the model?
+Does the organization defined in the model have a mobile app?
+What are the software interfaces within this domain?
+What automation resources does the organization have?
+What are the specializations between entities that are present within the domain?
+What are the data flows that carry CRM Data?
+What are the relations that show the flow of money?
+Are there any flows that relate to the policies?
+Are there any requests relations?
+Are there any document flows?
+What are the capabilites that are invloved in product management?
+What capabilites are needed to market and sell products?
+What must happen after developing a product and before managing policies and claims?
+What is must be done inoder to realize Customer Mamagement?
+What are the drivers that influence the Board of Directors and the Customers and do they have any that are common?
+If there are a seqeunce of activites that are done to provide the customer with a insurance offering what are they and what business value do each of they contribute?
+What are the devices that are connected to the networks that are connected to ArchiSurance WAN
+What data does the Home and Away Policy Administration use?
+What are the software services that are used to Handle a Claim?
+What resources are needed for managing digital channels?
+What externally located equipment are used?
+Where is the call report sent from?
+How are resources realized?
+What are the software components needed by the software that implements Integrated Back Office Automation?
+What are the Artifacts that are assigned to devices in the PRO-FIT Headquarters?
+What role does Anti Money Laundering play?
+Which city is ArchiSurance Headquarters located in?
+Who is the CEO of ArchiSurance?
+How much money did ArchiSurance make in Q3 of 2023?
+Does ArchiSurance allow workers to work from home?
+What is the mission statement of ArchiSurance?
