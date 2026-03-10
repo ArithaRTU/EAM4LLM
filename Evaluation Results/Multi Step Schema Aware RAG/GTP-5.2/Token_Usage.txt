@@ -1,0 +1,1417 @@
+All questions LLM prompt token usage
+====================================
+
+Question 1: What/who are the organizational entites which carry out functions?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 360
+  cached_input_tokens: 0
+  output_tokens: 17
+  reasoning_tokens: 0
+  total_tokens: 377
+
+Prompt: select_relevant_entities
+  input_tokens: 309
+  cached_input_tokens: 0
+  output_tokens: 123
+  reasoning_tokens: 0
+  total_tokens: 432
+
+Prompt: answer_from_entities_only
+  input_tokens: 447
+  cached_input_tokens: 0
+  output_tokens: 153
+  reasoning_tokens: 0
+  total_tokens: 600
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 212
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 230
+
+Prompt: answer_from_relations
+  input_tokens: 570
+  cached_input_tokens: 0
+  output_tokens: 429
+  reasoning_tokens: 0
+  total_tokens: 999
+
+Question totals
+  input_tokens: 1898
+  cached_input_tokens: 0
+  output_tokens: 740
+  reasoning_tokens: 0
+  total_tokens: 2638
+
+
+Question 2: What are the devices used?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 353
+  cached_input_tokens: 0
+  output_tokens: 16
+  reasoning_tokens: 0
+  total_tokens: 369
+
+Prompt: select_relevant_entities
+  input_tokens: 286
+  cached_input_tokens: 0
+  output_tokens: 110
+  reasoning_tokens: 0
+  total_tokens: 396
+
+Prompt: answer_from_entities_only
+  input_tokens: 344
+  cached_input_tokens: 0
+  output_tokens: 211
+  reasoning_tokens: 0
+  total_tokens: 555
+
+Question totals
+  input_tokens: 983
+  cached_input_tokens: 0
+  output_tokens: 337
+  reasoning_tokens: 0
+  total_tokens: 1320
+
+
+Question 3: What are the services that are carried out by software?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 358
+  cached_input_tokens: 0
+  output_tokens: 20
+  reasoning_tokens: 0
+  total_tokens: 378
+
+Prompt: select_relevant_entities
+  input_tokens: 310
+  cached_input_tokens: 0
+  output_tokens: 125
+  reasoning_tokens: 0
+  total_tokens: 435
+
+Prompt: answer_from_entities_only
+  input_tokens: 368
+  cached_input_tokens: 0
+  output_tokens: 169
+  reasoning_tokens: 0
+  total_tokens: 537
+
+Question totals
+  input_tokens: 1036
+  cached_input_tokens: 0
+  output_tokens: 314
+  reasoning_tokens: 0
+  total_tokens: 1350
+
+
+Question 4: What are the resources have been defined?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 355
+  cached_input_tokens: 0
+  output_tokens: 16
+  reasoning_tokens: 0
+  total_tokens: 371
+
+Prompt: select_relevant_entities
+  input_tokens: 262
+  cached_input_tokens: 0
+  output_tokens: 85
+  reasoning_tokens: 0
+  total_tokens: 347
+
+Prompt: answer_from_entities_only
+  input_tokens: 320
+  cached_input_tokens: 0
+  output_tokens: 161
+  reasoning_tokens: 0
+  total_tokens: 481
+
+Question totals
+  input_tokens: 937
+  cached_input_tokens: 0
+  output_tokens: 262
+  reasoning_tokens: 0
+  total_tokens: 1199
+
+
+Question 5: What is the name of the organization that is represented in the model?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 361
+  cached_input_tokens: 0
+  output_tokens: 22
+  reasoning_tokens: 0
+  total_tokens: 383
+
+Prompt: select_relevant_entities
+  input_tokens: 406
+  cached_input_tokens: 0
+  output_tokens: 25
+  reasoning_tokens: 0
+  total_tokens: 431
+
+Prompt: answer_from_entities_only
+  input_tokens: 271
+  cached_input_tokens: 0
+  output_tokens: 49
+  reasoning_tokens: 0
+  total_tokens: 320
+
+Question totals
+  input_tokens: 1038
+  cached_input_tokens: 0
+  output_tokens: 96
+  reasoning_tokens: 0
+  total_tokens: 1134
+
+
+Question 6: Does the organization defined in the model have a mobile app?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 359
+  cached_input_tokens: 0
+  output_tokens: 30
+  reasoning_tokens: 0
+  total_tokens: 389
+
+Prompt: select_relevant_entities
+  input_tokens: 751
+  cached_input_tokens: 0
+  output_tokens: 189
+  reasoning_tokens: 0
+  total_tokens: 940
+
+Prompt: answer_from_entities_only
+  input_tokens: 437
+  cached_input_tokens: 0
+  output_tokens: 56
+  reasoning_tokens: 0
+  total_tokens: 493
+
+Question totals
+  input_tokens: 1547
+  cached_input_tokens: 0
+  output_tokens: 275
+  reasoning_tokens: 0
+  total_tokens: 1822
+
+
+Question 7: What are the software interfaces within this domain?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 356
+  cached_input_tokens: 0
+  output_tokens: 20
+  reasoning_tokens: 0
+  total_tokens: 376
+
+Prompt: select_relevant_entities
+  input_tokens: 274
+  cached_input_tokens: 0
+  output_tokens: 94
+  reasoning_tokens: 0
+  total_tokens: 368
+
+Prompt: answer_from_entities_only
+  input_tokens: 332
+  cached_input_tokens: 0
+  output_tokens: 45
+  reasoning_tokens: 0
+  total_tokens: 377
+
+Question totals
+  input_tokens: 962
+  cached_input_tokens: 0
+  output_tokens: 159
+  reasoning_tokens: 0
+  total_tokens: 1121
+
+
+Question 8: What automation resources does the organization have?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 355
+  cached_input_tokens: 0
+  output_tokens: 52
+  reasoning_tokens: 0
+  total_tokens: 407
+
+Prompt: select_relevant_entities
+  input_tokens: 1322
+  cached_input_tokens: 0
+  output_tokens: 279
+  reasoning_tokens: 0
+  total_tokens: 1601
+
+Prompt: answer_from_entities_only
+  input_tokens: 533
+  cached_input_tokens: 0
+  output_tokens: 85
+  reasoning_tokens: 0
+  total_tokens: 618
+
+Question totals
+  input_tokens: 2210
+  cached_input_tokens: 0
+  output_tokens: 416
+  reasoning_tokens: 0
+  total_tokens: 2626
+
+
+Question 9: What are the specializations between entities that are present within the domain?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 361
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 375
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 213
+  cached_input_tokens: 0
+  output_tokens: 19
+  reasoning_tokens: 0
+  total_tokens: 232
+
+Prompt: answer_from_relations
+  input_tokens: 491
+  cached_input_tokens: 0
+  output_tokens: 313
+  reasoning_tokens: 0
+  total_tokens: 804
+
+Question totals
+  input_tokens: 1065
+  cached_input_tokens: 0
+  output_tokens: 346
+  reasoning_tokens: 0
+  total_tokens: 1411
+
+
+Question 10: What are the data flows that carry CRM Data?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 357
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 371
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 209
+  cached_input_tokens: 0
+  output_tokens: 21
+  reasoning_tokens: 0
+  total_tokens: 230
+
+Prompt: answer_from_relations
+  input_tokens: 1904
+  cached_input_tokens: 0
+  output_tokens: 133
+  reasoning_tokens: 0
+  total_tokens: 2037
+
+Question totals
+  input_tokens: 2470
+  cached_input_tokens: 0
+  output_tokens: 168
+  reasoning_tokens: 0
+  total_tokens: 2638
+
+
+Question 11: What are the relations that show the flow of money?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 358
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 372
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 210
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 228
+
+Prompt: answer_from_relations
+  input_tokens: 1789
+  cached_input_tokens: 0
+  output_tokens: 198
+  reasoning_tokens: 0
+  total_tokens: 1987
+
+Question totals
+  input_tokens: 2357
+  cached_input_tokens: 0
+  output_tokens: 230
+  reasoning_tokens: 0
+  total_tokens: 2587
+
+
+Question 12: Are there any flows that relate to the policies?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 357
+  cached_input_tokens: 0
+  output_tokens: 39
+  reasoning_tokens: 0
+  total_tokens: 396
+
+Prompt: select_relevant_entities
+  input_tokens: 630
+  cached_input_tokens: 0
+  output_tokens: 184
+  reasoning_tokens: 0
+  total_tokens: 814
+
+Prompt: answer_from_entities_only
+  input_tokens: 431
+  cached_input_tokens: 0
+  output_tokens: 114
+  reasoning_tokens: 0
+  total_tokens: 545
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 209
+  cached_input_tokens: 0
+  output_tokens: 28
+  reasoning_tokens: 0
+  total_tokens: 237
+
+Prompt: answer_from_relations
+  input_tokens: 594
+  cached_input_tokens: 0
+  output_tokens: 141
+  reasoning_tokens: 0
+  total_tokens: 735
+
+Question totals
+  input_tokens: 2221
+  cached_input_tokens: 0
+  output_tokens: 506
+  reasoning_tokens: 0
+  total_tokens: 2727
+
+
+Question 13: Are there any requests relations?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 353
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 367
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 205
+  cached_input_tokens: 0
+  output_tokens: 31
+  reasoning_tokens: 0
+  total_tokens: 236
+
+Prompt: answer_from_relations
+  input_tokens: 3828
+  cached_input_tokens: 0
+  output_tokens: 86
+  reasoning_tokens: 0
+  total_tokens: 3914
+
+Question totals
+  input_tokens: 4386
+  cached_input_tokens: 0
+  output_tokens: 131
+  reasoning_tokens: 0
+  total_tokens: 4517
+
+
+Question 14: Are there any document flows?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 353
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 367
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 205
+  cached_input_tokens: 0
+  output_tokens: 28
+  reasoning_tokens: 0
+  total_tokens: 233
+
+Prompt: answer_from_relations
+  input_tokens: 3293
+  cached_input_tokens: 0
+  output_tokens: 296
+  reasoning_tokens: 0
+  total_tokens: 3589
+
+Question totals
+  input_tokens: 3851
+  cached_input_tokens: 0
+  output_tokens: 338
+  reasoning_tokens: 0
+  total_tokens: 4189
+
+
+Question 15: What are the capabilites that are invloved in product management?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 362
+  cached_input_tokens: 0
+  output_tokens: 44
+  reasoning_tokens: 0
+  total_tokens: 406
+
+Prompt: select_relevant_entities
+  input_tokens: 1475
+  cached_input_tokens: 0
+  output_tokens: 301
+  reasoning_tokens: 0
+  total_tokens: 1776
+
+Prompt: answer_from_entities_only
+  input_tokens: 588
+  cached_input_tokens: 0
+  output_tokens: 86
+  reasoning_tokens: 0
+  total_tokens: 674
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 214
+  cached_input_tokens: 0
+  output_tokens: 38
+  reasoning_tokens: 0
+  total_tokens: 252
+
+Prompt: answer_from_relations
+  input_tokens: 1498
+  cached_input_tokens: 0
+  output_tokens: 92
+  reasoning_tokens: 0
+  total_tokens: 1590
+
+Question totals
+  input_tokens: 4137
+  cached_input_tokens: 0
+  output_tokens: 561
+  reasoning_tokens: 0
+  total_tokens: 4698
+
+
+Question 16: What capabilites are needed to market and sell products?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 359
+  cached_input_tokens: 0
+  output_tokens: 54
+  reasoning_tokens: 0
+  total_tokens: 413
+
+Prompt: select_relevant_entities
+  input_tokens: 1934
+  cached_input_tokens: 0
+  output_tokens: 265
+  reasoning_tokens: 0
+  total_tokens: 2199
+
+Prompt: answer_from_entities_only
+  input_tokens: 536
+  cached_input_tokens: 0
+  output_tokens: 105
+  reasoning_tokens: 0
+  total_tokens: 641
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 211
+  cached_input_tokens: 0
+  output_tokens: 45
+  reasoning_tokens: 0
+  total_tokens: 256
+
+Prompt: answer_from_relations
+  input_tokens: 1685
+  cached_input_tokens: 0
+  output_tokens: 145
+  reasoning_tokens: 0
+  total_tokens: 1830
+
+Question totals
+  input_tokens: 4725
+  cached_input_tokens: 0
+  output_tokens: 614
+  reasoning_tokens: 0
+  total_tokens: 5339
+
+
+Question 17: What must happen after developing a product and before managing policies and claims?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 361
+  cached_input_tokens: 0
+  output_tokens: 23
+  reasoning_tokens: 0
+  total_tokens: 384
+
+Prompt: select_relevant_entities
+  input_tokens: 506
+  cached_input_tokens: 0
+  output_tokens: 48
+  reasoning_tokens: 0
+  total_tokens: 554
+
+Prompt: answer_from_entities_only
+  input_tokens: 285
+  cached_input_tokens: 0
+  output_tokens: 100
+  reasoning_tokens: 0
+  total_tokens: 385
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 213
+  cached_input_tokens: 0
+  output_tokens: 22
+  reasoning_tokens: 0
+  total_tokens: 235
+
+Prompt: answer_from_relations
+  input_tokens: 394
+  cached_input_tokens: 0
+  output_tokens: 113
+  reasoning_tokens: 0
+  total_tokens: 507
+
+Question totals
+  input_tokens: 1759
+  cached_input_tokens: 0
+  output_tokens: 306
+  reasoning_tokens: 0
+  total_tokens: 2065
+
+
+Question 18: What is must be done inoder to realize Customer Mamagement?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 360
+  cached_input_tokens: 0
+  output_tokens: 74
+  reasoning_tokens: 0
+  total_tokens: 434
+
+Prompt: select_relevant_entities
+  input_tokens: 2292
+  cached_input_tokens: 0
+  output_tokens: 400
+  reasoning_tokens: 0
+  total_tokens: 2692
+
+Prompt: answer_from_entities_only
+  input_tokens: 678
+  cached_input_tokens: 0
+  output_tokens: 119
+  reasoning_tokens: 0
+  total_tokens: 797
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 212
+  cached_input_tokens: 0
+  output_tokens: 52
+  reasoning_tokens: 0
+  total_tokens: 264
+
+Prompt: answer_from_relations
+  input_tokens: 2694
+  cached_input_tokens: 0
+  output_tokens: 322
+  reasoning_tokens: 0
+  total_tokens: 3016
+
+Question totals
+  input_tokens: 6236
+  cached_input_tokens: 0
+  output_tokens: 967
+  reasoning_tokens: 0
+  total_tokens: 7203
+
+
+Question 19: What are the drivers that influence the Board of Directors and the Customers and do they have any that are common?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 369
+  cached_input_tokens: 0
+  output_tokens: 22
+  reasoning_tokens: 0
+  total_tokens: 391
+
+Prompt: select_relevant_entities
+  input_tokens: 390
+  cached_input_tokens: 0
+  output_tokens: 78
+  reasoning_tokens: 0
+  total_tokens: 468
+
+Prompt: answer_from_entities_only
+  input_tokens: 328
+  cached_input_tokens: 0
+  output_tokens: 128
+  reasoning_tokens: 0
+  total_tokens: 456
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 221
+  cached_input_tokens: 0
+  output_tokens: 22
+  reasoning_tokens: 0
+  total_tokens: 243
+
+Prompt: answer_from_relations
+  input_tokens: 612
+  cached_input_tokens: 0
+  output_tokens: 241
+  reasoning_tokens: 0
+  total_tokens: 853
+
+Question totals
+  input_tokens: 1920
+  cached_input_tokens: 0
+  output_tokens: 491
+  reasoning_tokens: 0
+  total_tokens: 2411
+
+
+Question 20: If there are a seqeunce of activites that are done to provide the customer with a insurance offering what are they and what business value do each of they contribute?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 381
+  cached_input_tokens: 0
+  output_tokens: 41
+  reasoning_tokens: 0
+  total_tokens: 422
+
+Prompt: select_relevant_entities
+  input_tokens: 1337
+  cached_input_tokens: 0
+  output_tokens: 322
+  reasoning_tokens: 0
+  total_tokens: 1659
+
+Prompt: answer_from_entities_only
+  input_tokens: 635
+  cached_input_tokens: 0
+  output_tokens: 171
+  reasoning_tokens: 0
+  total_tokens: 806
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 233
+  cached_input_tokens: 0
+  output_tokens: 42
+  reasoning_tokens: 0
+  total_tokens: 275
+
+Prompt: answer_from_relations
+  input_tokens: 2080
+  cached_input_tokens: 0
+  output_tokens: 404
+  reasoning_tokens: 0
+  total_tokens: 2484
+
+Question totals
+  input_tokens: 4666
+  cached_input_tokens: 0
+  output_tokens: 980
+  reasoning_tokens: 0
+  total_tokens: 5646
+
+
+Question 21: What are the devices that are connected to the networks that are connected to ArchiSurance WAN
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 367
+  cached_input_tokens: 0
+  output_tokens: 19
+  reasoning_tokens: 0
+  total_tokens: 386
+
+Prompt: select_relevant_entities
+  input_tokens: 350
+  cached_input_tokens: 0
+  output_tokens: 156
+  reasoning_tokens: 0
+  total_tokens: 506
+
+Prompt: answer_from_entities_only
+  input_tokens: 408
+  cached_input_tokens: 0
+  output_tokens: 73
+  reasoning_tokens: 0
+  total_tokens: 481
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 219
+  cached_input_tokens: 0
+  output_tokens: 24
+  reasoning_tokens: 0
+  total_tokens: 243
+
+Prompt: answer_from_relations
+  input_tokens: 838
+  cached_input_tokens: 0
+  output_tokens: 396
+  reasoning_tokens: 0
+  total_tokens: 1234
+
+Question totals
+  input_tokens: 2182
+  cached_input_tokens: 0
+  output_tokens: 668
+  reasoning_tokens: 0
+  total_tokens: 2850
+
+
+Question 22: What data does the Home and Away Policy Administration use?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 358
+  cached_input_tokens: 0
+  output_tokens: 32
+  reasoning_tokens: 0
+  total_tokens: 390
+
+Prompt: select_relevant_entities
+  input_tokens: 676
+  cached_input_tokens: 0
+  output_tokens: 142
+  reasoning_tokens: 0
+  total_tokens: 818
+
+Prompt: answer_from_entities_only
+  input_tokens: 386
+  cached_input_tokens: 0
+  output_tokens: 104
+  reasoning_tokens: 0
+  total_tokens: 490
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 210
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 228
+
+Prompt: answer_from_relations
+  input_tokens: 377
+  cached_input_tokens: 0
+  output_tokens: 54
+  reasoning_tokens: 0
+  total_tokens: 431
+
+Prompt: answer_from_relations
+  input_tokens: 888
+  cached_input_tokens: 0
+  output_tokens: 231
+  reasoning_tokens: 0
+  total_tokens: 1119
+
+Question totals
+  input_tokens: 2895
+  cached_input_tokens: 0
+  output_tokens: 581
+  reasoning_tokens: 0
+  total_tokens: 3476
+
+
+Question 23: What are the software services that are used to Handle a Claim?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 360
+  cached_input_tokens: 0
+  output_tokens: 38
+  reasoning_tokens: 0
+  total_tokens: 398
+
+Prompt: select_relevant_entities
+  input_tokens: 935
+  cached_input_tokens: 0
+  output_tokens: 246
+  reasoning_tokens: 0
+  total_tokens: 1181
+
+Prompt: answer_from_entities_only
+  input_tokens: 503
+  cached_input_tokens: 0
+  output_tokens: 192
+  reasoning_tokens: 0
+  total_tokens: 695
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 212
+  cached_input_tokens: 0
+  output_tokens: 38
+  reasoning_tokens: 0
+  total_tokens: 250
+
+Prompt: answer_from_relations
+  input_tokens: 1882
+  cached_input_tokens: 0
+  output_tokens: 139
+  reasoning_tokens: 0
+  total_tokens: 2021
+
+Question totals
+  input_tokens: 3892
+  cached_input_tokens: 0
+  output_tokens: 653
+  reasoning_tokens: 0
+  total_tokens: 4545
+
+
+Question 24: What resources are needed for managing digital channels?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 356
+  cached_input_tokens: 0
+  output_tokens: 63
+  reasoning_tokens: 0
+  total_tokens: 419
+
+Prompt: select_relevant_entities
+  input_tokens: 1951
+  cached_input_tokens: 0
+  output_tokens: 313
+  reasoning_tokens: 0
+  total_tokens: 2264
+
+Prompt: answer_from_entities_only
+  input_tokens: 582
+  cached_input_tokens: 0
+  output_tokens: 189
+  reasoning_tokens: 0
+  total_tokens: 771
+
+Question totals
+  input_tokens: 2889
+  cached_input_tokens: 0
+  output_tokens: 565
+  reasoning_tokens: 0
+  total_tokens: 3454
+
+
+Question 25: What externally located equipment are used?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 354
+  cached_input_tokens: 0
+  output_tokens: 22
+  reasoning_tokens: 0
+  total_tokens: 376
+
+Prompt: select_relevant_entities
+  input_tokens: 439
+  cached_input_tokens: 0
+  output_tokens: 74
+  reasoning_tokens: 0
+  total_tokens: 513
+
+Prompt: answer_from_entities_only
+  input_tokens: 308
+  cached_input_tokens: 0
+  output_tokens: 109
+  reasoning_tokens: 0
+  total_tokens: 417
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 206
+  cached_input_tokens: 0
+  output_tokens: 33
+  reasoning_tokens: 0
+  total_tokens: 239
+
+Prompt: answer_from_relations
+  input_tokens: 513
+  cached_input_tokens: 0
+  output_tokens: 162
+  reasoning_tokens: 0
+  total_tokens: 675
+
+Question totals
+  input_tokens: 1820
+  cached_input_tokens: 0
+  output_tokens: 400
+  reasoning_tokens: 0
+  total_tokens: 2220
+
+
+Question 26: Where is the call report sent from?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 355
+  cached_input_tokens: 0
+  output_tokens: 66
+  reasoning_tokens: 0
+  total_tokens: 421
+
+Prompt: select_relevant_entities
+  input_tokens: 1505
+  cached_input_tokens: 0
+  output_tokens: 172
+  reasoning_tokens: 0
+  total_tokens: 1677
+
+Prompt: answer_from_entities_only
+  input_tokens: 436
+  cached_input_tokens: 0
+  output_tokens: 94
+  reasoning_tokens: 0
+  total_tokens: 530
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 207
+  cached_input_tokens: 0
+  output_tokens: 28
+  reasoning_tokens: 0
+  total_tokens: 235
+
+Prompt: answer_from_relations
+  input_tokens: 1042
+  cached_input_tokens: 0
+  output_tokens: 150
+  reasoning_tokens: 0
+  total_tokens: 1192
+
+Question totals
+  input_tokens: 3545
+  cached_input_tokens: 0
+  output_tokens: 510
+  reasoning_tokens: 0
+  total_tokens: 4055
+
+
+Question 27: How are resources realized?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 352
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 370
+
+Prompt: select_relevant_entities
+  input_tokens: 706
+  cached_input_tokens: 0
+  output_tokens: 85
+  reasoning_tokens: 0
+  total_tokens: 791
+
+Prompt: answer_from_entities_only
+  input_tokens: 317
+  cached_input_tokens: 0
+  output_tokens: 122
+  reasoning_tokens: 0
+  total_tokens: 439
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 204
+  cached_input_tokens: 0
+  output_tokens: 19
+  reasoning_tokens: 0
+  total_tokens: 223
+
+Prompt: answer_from_relations
+  input_tokens: 702
+  cached_input_tokens: 0
+  output_tokens: 347
+  reasoning_tokens: 0
+  total_tokens: 1049
+
+Question totals
+  input_tokens: 2281
+  cached_input_tokens: 0
+  output_tokens: 591
+  reasoning_tokens: 0
+  total_tokens: 2872
+
+
+Question 28: What are the software components needed by the software that implements Integrated Back Office Automation?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 363
+  cached_input_tokens: 0
+  output_tokens: 47
+  reasoning_tokens: 0
+  total_tokens: 410
+
+Prompt: select_relevant_entities
+  input_tokens: 896
+  cached_input_tokens: 0
+  output_tokens: 167
+  reasoning_tokens: 0
+  total_tokens: 1063
+
+Prompt: answer_from_entities_only
+  input_tokens: 417
+  cached_input_tokens: 0
+  output_tokens: 135
+  reasoning_tokens: 0
+  total_tokens: 552
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 215
+  cached_input_tokens: 0
+  output_tokens: 41
+  reasoning_tokens: 0
+  total_tokens: 256
+
+Prompt: answer_from_relations
+  input_tokens: 1549
+  cached_input_tokens: 0
+  output_tokens: 264
+  reasoning_tokens: 0
+  total_tokens: 1813
+
+Question totals
+  input_tokens: 3440
+  cached_input_tokens: 0
+  output_tokens: 654
+  reasoning_tokens: 0
+  total_tokens: 4094
+
+
+Question 29: What are the Artifacts that are assigned to devices in the PRO-FIT Headquarters?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 364
+  cached_input_tokens: 0
+  output_tokens: 24
+  reasoning_tokens: 0
+  total_tokens: 388
+
+Prompt: select_relevant_entities
+  input_tokens: 592
+  cached_input_tokens: 0
+  output_tokens: 242
+  reasoning_tokens: 0
+  total_tokens: 834
+
+Prompt: answer_from_entities_only
+  input_tokens: 500
+  cached_input_tokens: 0
+  output_tokens: 78
+  reasoning_tokens: 0
+  total_tokens: 578
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 216
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 234
+
+Prompt: answer_from_relations
+  input_tokens: 590
+  cached_input_tokens: 0
+  output_tokens: 86
+  reasoning_tokens: 0
+  total_tokens: 676
+
+Prompt: answer_from_relations
+  input_tokens: 1511
+  cached_input_tokens: 0
+  output_tokens: 199
+  reasoning_tokens: 0
+  total_tokens: 1710
+
+Question totals
+  input_tokens: 3773
+  cached_input_tokens: 0
+  output_tokens: 647
+  reasoning_tokens: 0
+  total_tokens: 4420
+
+
+Question 30: What role does Anti Money Laundering play?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 357
+  cached_input_tokens: 0
+  output_tokens: 65
+  reasoning_tokens: 0
+  total_tokens: 422
+
+Prompt: select_relevant_entities
+  input_tokens: 2053
+  cached_input_tokens: 0
+  output_tokens: 199
+  reasoning_tokens: 0
+  total_tokens: 2252
+
+Prompt: answer_from_entities_only
+  input_tokens: 450
+  cached_input_tokens: 0
+  output_tokens: 83
+  reasoning_tokens: 0
+  total_tokens: 533
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 209
+  cached_input_tokens: 0
+  output_tokens: 32
+  reasoning_tokens: 0
+  total_tokens: 241
+
+Prompt: answer_from_relations
+  input_tokens: 754
+  cached_input_tokens: 0
+  output_tokens: 51
+  reasoning_tokens: 0
+  total_tokens: 805
+
+Prompt: answer_from_relations
+  input_tokens: 1384
+  cached_input_tokens: 0
+  output_tokens: 51
+  reasoning_tokens: 0
+  total_tokens: 1435
+
+Question totals
+  input_tokens: 5207
+  cached_input_tokens: 0
+  output_tokens: 481
+  reasoning_tokens: 0
+  total_tokens: 5688
+
+
+Question 31: Which city is ArchiSurance Headquarters located in?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 358
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 376
+
+Prompt: select_relevant_entities
+  input_tokens: 280
+  cached_input_tokens: 0
+  output_tokens: 24
+  reasoning_tokens: 0
+  total_tokens: 304
+
+Prompt: answer_from_entities_only
+  input_tokens: 268
+  cached_input_tokens: 0
+  output_tokens: 79
+  reasoning_tokens: 0
+  total_tokens: 347
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 210
+  cached_input_tokens: 0
+  output_tokens: 24
+  reasoning_tokens: 0
+  total_tokens: 234
+
+Prompt: answer_from_relations
+  input_tokens: 445
+  cached_input_tokens: 0
+  output_tokens: 59
+  reasoning_tokens: 0
+  total_tokens: 504
+
+Question totals
+  input_tokens: 1561
+  cached_input_tokens: 0
+  output_tokens: 204
+  reasoning_tokens: 0
+  total_tokens: 1765
+
+
+Question 32: Who is the CEO of ArchiSurance?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 357
+  cached_input_tokens: 0
+  output_tokens: 20
+  reasoning_tokens: 0
+  total_tokens: 377
+
+Prompt: select_relevant_entities
+  input_tokens: 324
+  cached_input_tokens: 0
+  output_tokens: 33
+  reasoning_tokens: 0
+  total_tokens: 357
+
+Prompt: answer_from_entities_only
+  input_tokens: 276
+  cached_input_tokens: 0
+  output_tokens: 82
+  reasoning_tokens: 0
+  total_tokens: 358
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 209
+  cached_input_tokens: 0
+  output_tokens: 21
+  reasoning_tokens: 0
+  total_tokens: 230
+
+Prompt: answer_from_relations
+  input_tokens: 386
+  cached_input_tokens: 0
+  output_tokens: 96
+  reasoning_tokens: 0
+  total_tokens: 482
+
+Prompt: answer_from_relations
+  input_tokens: 517
+  cached_input_tokens: 0
+  output_tokens: 54
+  reasoning_tokens: 0
+  total_tokens: 571
+
+Question totals
+  input_tokens: 2069
+  cached_input_tokens: 0
+  output_tokens: 306
+  reasoning_tokens: 0
+  total_tokens: 2375
+
+
+Question 33: How much money did ArchiSurance make in Q3 of 2023?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 364
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 378
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 216
+  cached_input_tokens: 0
+  output_tokens: 15
+  reasoning_tokens: 0
+  total_tokens: 231
+
+Prompt: answer_from_relations
+  input_tokens: 9688
+  cached_input_tokens: 0
+  output_tokens: 79
+  reasoning_tokens: 0
+  total_tokens: 9767
+
+Question totals
+  input_tokens: 10268
+  cached_input_tokens: 0
+  output_tokens: 108
+  reasoning_tokens: 0
+  total_tokens: 10376
+
+
+Question 34: Does ArchiSurance allow workers to work from home?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 359
+  cached_input_tokens: 0
+  output_tokens: 61
+  reasoning_tokens: 0
+  total_tokens: 420
+
+Prompt: select_relevant_entities
+  input_tokens: 1755
+  cached_input_tokens: 0
+  output_tokens: 156
+  reasoning_tokens: 0
+  total_tokens: 1911
+
+Prompt: answer_from_entities_only
+  input_tokens: 403
+  cached_input_tokens: 0
+  output_tokens: 108
+  reasoning_tokens: 0
+  total_tokens: 511
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 211
+  cached_input_tokens: 0
+  output_tokens: 35
+  reasoning_tokens: 0
+  total_tokens: 246
+
+Prompt: answer_from_relations
+  input_tokens: 475
+  cached_input_tokens: 0
+  output_tokens: 69
+  reasoning_tokens: 0
+  total_tokens: 544
+
+Prompt: answer_from_relations
+  input_tokens: 908
+  cached_input_tokens: 0
+  output_tokens: 78
+  reasoning_tokens: 0
+  total_tokens: 986
+
+Question totals
+  input_tokens: 4111
+  cached_input_tokens: 0
+  output_tokens: 507
+  reasoning_tokens: 0
+  total_tokens: 4618
+
+
+Question 35: What is the mission statement of ArchiSurance?
+--------------------------------------------------------------------------------
+Prompt: select_relevant_entity_types
+  input_tokens: 358
+  cached_input_tokens: 0
+  output_tokens: 16
+  reasoning_tokens: 0
+  total_tokens: 374
+
+Prompt: select_relevant_entities
+  input_tokens: 301
+  cached_input_tokens: 0
+  output_tokens: 14
+  reasoning_tokens: 0
+  total_tokens: 315
+
+Prompt: select_relevant_relationship_types
+  input_tokens: 210
+  cached_input_tokens: 0
+  output_tokens: 18
+  reasoning_tokens: 0
+  total_tokens: 228
+
+Prompt: answer_from_relations
+  input_tokens: 1159
+  cached_input_tokens: 0
+  output_tokens: 70
+  reasoning_tokens: 0
+  total_tokens: 1229
+
+Question totals
+  input_tokens: 2028
+  cached_input_tokens: 0
+  output_tokens: 118
+  reasoning_tokens: 0
+  total_tokens: 2146
+
+
+Grand totals
+============
+input_tokens: 102365
+cached_input_tokens: 0
+output_tokens: 15230
+reasoning_tokens: 0
+total_tokens: 117595

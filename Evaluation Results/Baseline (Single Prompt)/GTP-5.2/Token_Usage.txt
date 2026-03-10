@@ -1,0 +1,605 @@
+All questions LLM prompt token usage
+====================================
+
+Question 1: What/who are the organizational entites which carry out functions?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 369
+  reasoning_tokens: 0
+  total_tokens: 13601
+
+Question totals
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 369
+  reasoning_tokens: 0
+  total_tokens: 13601
+
+
+Question 2: What are the devices used?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 214
+  reasoning_tokens: 0
+  total_tokens: 13439
+
+Question totals
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 214
+  reasoning_tokens: 0
+  total_tokens: 13439
+
+
+Question 3: What are the services that are carried out by software?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 221
+  reasoning_tokens: 0
+  total_tokens: 13451
+
+Question totals
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 221
+  reasoning_tokens: 0
+  total_tokens: 13451
+
+
+Question 4: What are the resources have been defined?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 165
+  reasoning_tokens: 0
+  total_tokens: 13392
+
+Question totals
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 165
+  reasoning_tokens: 0
+  total_tokens: 13392
+
+
+Question 5: What is the name of the organization that is represented in the model?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 49
+  reasoning_tokens: 0
+  total_tokens: 13282
+
+Question totals
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 49
+  reasoning_tokens: 0
+  total_tokens: 13282
+
+
+Question 6: Does the organization defined in the model have a mobile app?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 59
+  reasoning_tokens: 0
+  total_tokens: 13290
+
+Question totals
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 59
+  reasoning_tokens: 0
+  total_tokens: 13290
+
+
+Question 7: What are the software interfaces within this domain?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13228
+  cached_input_tokens: 0
+  output_tokens: 166
+  reasoning_tokens: 0
+  total_tokens: 13394
+
+Question totals
+  input_tokens: 13228
+  cached_input_tokens: 0
+  output_tokens: 166
+  reasoning_tokens: 0
+  total_tokens: 13394
+
+
+Question 8: What automation resources does the organization have?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 360
+  reasoning_tokens: 0
+  total_tokens: 13587
+
+Question totals
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 360
+  reasoning_tokens: 0
+  total_tokens: 13587
+
+
+Question 9: What are the specializations between entities that are present within the domain?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 357
+  reasoning_tokens: 0
+  total_tokens: 13590
+
+Question totals
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 357
+  reasoning_tokens: 0
+  total_tokens: 13590
+
+
+Question 10: What are the data flows that carry CRM Data?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 162
+  reasoning_tokens: 0
+  total_tokens: 13391
+
+Question totals
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 162
+  reasoning_tokens: 0
+  total_tokens: 13391
+
+
+Question 11: What are the relations that show the flow of money?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 201
+  reasoning_tokens: 0
+  total_tokens: 13431
+
+Question totals
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 201
+  reasoning_tokens: 0
+  total_tokens: 13431
+
+
+Question 12: Are there any flows that relate to the policies?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 147
+  reasoning_tokens: 0
+  total_tokens: 13376
+
+Question totals
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 147
+  reasoning_tokens: 0
+  total_tokens: 13376
+
+
+Question 13: Are there any requests relations?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 63
+  reasoning_tokens: 0
+  total_tokens: 13288
+
+Question totals
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 63
+  reasoning_tokens: 0
+  total_tokens: 13288
+
+
+Question 14: Are there any document flows?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 299
+  reasoning_tokens: 0
+  total_tokens: 13524
+
+Question totals
+  input_tokens: 13225
+  cached_input_tokens: 0
+  output_tokens: 299
+  reasoning_tokens: 0
+  total_tokens: 13524
+
+
+Question 15: What are the capabilites that are invloved in product management?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13234
+  cached_input_tokens: 0
+  output_tokens: 130
+  reasoning_tokens: 0
+  total_tokens: 13364
+
+Question totals
+  input_tokens: 13234
+  cached_input_tokens: 0
+  output_tokens: 130
+  reasoning_tokens: 0
+  total_tokens: 13364
+
+
+Question 16: What capabilites are needed to market and sell products?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 290
+  reasoning_tokens: 0
+  total_tokens: 13521
+
+Question totals
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 290
+  reasoning_tokens: 0
+  total_tokens: 13521
+
+
+Question 17: What must happen after developing a product and before managing policies and claims?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 209
+  reasoning_tokens: 0
+  total_tokens: 13442
+
+Question totals
+  input_tokens: 13233
+  cached_input_tokens: 0
+  output_tokens: 209
+  reasoning_tokens: 0
+  total_tokens: 13442
+
+
+Question 18: What is must be done inoder to realize Customer Mamagement?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 447
+  reasoning_tokens: 0
+  total_tokens: 13679
+
+Question totals
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 447
+  reasoning_tokens: 0
+  total_tokens: 13679
+
+
+Question 19: What are the drivers that influence the Board of Directors and the Customers and do they have any that are common?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13241
+  cached_input_tokens: 0
+  output_tokens: 429
+  reasoning_tokens: 0
+  total_tokens: 13670
+
+Question totals
+  input_tokens: 13241
+  cached_input_tokens: 0
+  output_tokens: 429
+  reasoning_tokens: 0
+  total_tokens: 13670
+
+
+Question 20: If there are a seqeunce of activites that are done to provide the customer with a insurance offering what are they and what business value do each of they contribute?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13253
+  cached_input_tokens: 0
+  output_tokens: 718
+  reasoning_tokens: 0
+  total_tokens: 13971
+
+Question totals
+  input_tokens: 13253
+  cached_input_tokens: 0
+  output_tokens: 718
+  reasoning_tokens: 0
+  total_tokens: 13971
+
+
+Question 21: What are the devices that are connected to the networks that are connected to ArchiSurance WAN
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13239
+  cached_input_tokens: 0
+  output_tokens: 511
+  reasoning_tokens: 0
+  total_tokens: 13750
+
+Question totals
+  input_tokens: 13239
+  cached_input_tokens: 0
+  output_tokens: 511
+  reasoning_tokens: 0
+  total_tokens: 13750
+
+
+Question 22: What data does the Home and Away Policy Administration use?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 360
+  reasoning_tokens: 0
+  total_tokens: 13590
+
+Question totals
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 360
+  reasoning_tokens: 0
+  total_tokens: 13590
+
+
+Question 23: What are the software services that are used to Handle a Claim?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 251
+  reasoning_tokens: 0
+  total_tokens: 13483
+
+Question totals
+  input_tokens: 13232
+  cached_input_tokens: 0
+  output_tokens: 251
+  reasoning_tokens: 0
+  total_tokens: 13483
+
+
+Question 24: What resources are needed for managing digital channels?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13228
+  cached_input_tokens: 0
+  output_tokens: 147
+  reasoning_tokens: 0
+  total_tokens: 13375
+
+Question totals
+  input_tokens: 13228
+  cached_input_tokens: 0
+  output_tokens: 147
+  reasoning_tokens: 0
+  total_tokens: 13375
+
+
+Question 25: What externally located equipment are used?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13226
+  cached_input_tokens: 0
+  output_tokens: 213
+  reasoning_tokens: 0
+  total_tokens: 13439
+
+Question totals
+  input_tokens: 13226
+  cached_input_tokens: 0
+  output_tokens: 213
+  reasoning_tokens: 0
+  total_tokens: 13439
+
+
+Question 26: Where is the call report sent from?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 206
+  reasoning_tokens: 0
+  total_tokens: 13433
+
+Question totals
+  input_tokens: 13227
+  cached_input_tokens: 0
+  output_tokens: 206
+  reasoning_tokens: 0
+  total_tokens: 13433
+
+
+Question 27: How are resources realized?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13224
+  cached_input_tokens: 0
+  output_tokens: 598
+  reasoning_tokens: 0
+  total_tokens: 13822
+
+Question totals
+  input_tokens: 13224
+  cached_input_tokens: 0
+  output_tokens: 598
+  reasoning_tokens: 0
+  total_tokens: 13822
+
+
+Question 28: What are the software components needed by the software that implements Integrated Back Office Automation?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13235
+  cached_input_tokens: 0
+  output_tokens: 384
+  reasoning_tokens: 0
+  total_tokens: 13619
+
+Question totals
+  input_tokens: 13235
+  cached_input_tokens: 0
+  output_tokens: 384
+  reasoning_tokens: 0
+  total_tokens: 13619
+
+
+Question 29: What are the Artifacts that are assigned to devices in the PRO-FIT Headquarters?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13236
+  cached_input_tokens: 0
+  output_tokens: 278
+  reasoning_tokens: 0
+  total_tokens: 13514
+
+Question totals
+  input_tokens: 13236
+  cached_input_tokens: 0
+  output_tokens: 278
+  reasoning_tokens: 0
+  total_tokens: 13514
+
+
+Question 30: What role does Anti Money Laundering play?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 65
+  reasoning_tokens: 0
+  total_tokens: 13294
+
+Question totals
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 65
+  reasoning_tokens: 0
+  total_tokens: 13294
+
+
+Question 31: Which city is ArchiSurance Headquarters located in?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 148
+  reasoning_tokens: 0
+  total_tokens: 13378
+
+Question totals
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 148
+  reasoning_tokens: 0
+  total_tokens: 13378
+
+
+Question 32: Who is the CEO of ArchiSurance?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 180
+  reasoning_tokens: 0
+  total_tokens: 13409
+
+Question totals
+  input_tokens: 13229
+  cached_input_tokens: 0
+  output_tokens: 180
+  reasoning_tokens: 0
+  total_tokens: 13409
+
+
+Question 33: How much money did ArchiSurance make in Q3 of 2023?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13236
+  cached_input_tokens: 0
+  output_tokens: 94
+  reasoning_tokens: 0
+  total_tokens: 13330
+
+Question totals
+  input_tokens: 13236
+  cached_input_tokens: 0
+  output_tokens: 94
+  reasoning_tokens: 0
+  total_tokens: 13330
+
+
+Question 34: Does ArchiSurance allow workers to work from home?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 145
+  reasoning_tokens: 0
+  total_tokens: 13376
+
+Question totals
+  input_tokens: 13231
+  cached_input_tokens: 0
+  output_tokens: 145
+  reasoning_tokens: 0
+  total_tokens: 13376
+
+
+Question 35: What is the mission statement of ArchiSurance?
+--------------------------------------------------------------------------------
+Prompt: single_prompt_answer
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 72
+  reasoning_tokens: 0
+  total_tokens: 13302
+
+Question totals
+  input_tokens: 13230
+  cached_input_tokens: 0
+  output_tokens: 72
+  reasoning_tokens: 0
+  total_tokens: 13302
+
+
+Grand totals
+============
+input_tokens: 463090
+cached_input_tokens: 0
+output_tokens: 8707
+reasoning_tokens: 0
+total_tokens: 471797
