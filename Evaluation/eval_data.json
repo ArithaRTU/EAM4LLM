@@ -1,0 +1,618 @@
+[
+  {
+    "Question": "What/who are the organizational entites which carry out functions?",
+    "Response": "",
+    "Expected Answer": "The domain consists of the following actors ArchiSurance (type: BusinessActor), Front Office (type: BusinessActor), Back Office (type: BusinessActor), Shared Service Center (type: BusinessActor), Homeowner's Travel Back Office (type: BusinessActor), Legal Expense Back Office (type: BusinessActor), Auto Back Office (type: BusinessActor), Client (type: BusinessActor), Bank (type: BusinessActor), Customer Service (type: BusinessActor), and Business Intelligence Team (type: BusinessActor).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["ArchiSurance (type: BusinessActor)", "Front Office (type: BusinessActor)", "Back Office (type: BusinessActor)", "Shared Service Center (type: BusinessActor)", "Homeowner's Travel Back Office (type: BusinessActor)", "Legal Expense Back Office (type: BusinessActor)", "Auto Back Office (type: BusinessActor)", "Client (type: BusinessActor)", "Bank (type: BusinessActor)", "Customer Service (type: BusinessActor)", "Business Intelligence Team (type: BusinessActor)"],
+    "Faithfulness Contexts": [
+      "With the orgnaization ArchiSurance (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Front Office (a Business Actor) is responsible for carring out functions", 
+      "With the orgnaization Back Office (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Shared Service Center (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Homeowner's Travel Back Office (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Legal Expense Back Office (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Auto Back Office (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Client (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Bank (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Customer Service (a Business Actor) is responsible for carring out functions",
+      "With the orgnaization Business Intelligence Team (a Business Actor) is responsible for carring out functions"
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What are the devices used?",
+    "Response": "",
+    "Expected Answer": "The organization consists of the following devices ArchiSurance General-Purpose Server Cluster (type: Device), FO General-Purpose Server (type: Device), FO Web Hosting Server (type: Device), Legal Expense General-Purpose Server (type: Device), Document Management Server (type: Device), Auto General-Purpose Server (type: Device), Document Management Back-Up Server (type: Device), and ArchiSurance General-Purpose Back-Up Server Cluster (type: Device).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["ArchiSurance General-Purpose Server Cluster (type: Device)", "FO General-Purpose Server (type: Device)", "FO Web Hosting Server (type: Device)", "Legal Expense General-Purpose Server (type: Device)", "Document Management Server (type: Device)", "Auto General-Purpose Server (type: Device)", "Document Management Back-Up Server (type: Device)", "ArchiSurance General-Purpose Back-Up Server Cluster (type: Device)"],
+    "Faithfulness Contexts": [
+      "The domain consists of the followng devices ArchiSurance General-Purpose Server Cluster, FO General-Purpose Server, FO Web Hosting Server, Legal Expense General-Purpose Server, Document Management Server, Auto General-Purpose Server, Document Management Back-Up Server, and ArchiSurance General-Purpose Back-Up Server Cluster."
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What are the services that are carried out by software?",
+    "Response": "",
+    "Expected Answer": "The services carried out by software/applicatons are Scanning (type: ApplicationService), Customer Administration (type: ApplicationService), Claims Administration (type: ApplicationService), Printing (type: ApplicationService), Payment (type: ApplicationService), Policy Administration Service (type: ApplicationService), Financial Service (type: ApplicationService), and CRM Data Access (type: ApplicationService)",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["Scanning (type: ApplicationService)", "Customer Administration (type: ApplicationService)", "Claims Administration (type: ApplicationService)", "Printing (type: ApplicationService)", "Payment (type: ApplicationService)", "Policy Administration Service (type: ApplicationService)", "Financial Service (type: ApplicationService)", "CRM Data Access (type: ApplicationService)"],
+    "Faithfulness Contexts": [
+      "The services carried out by software/applicatons are Scanning, Customer Administration, Claims Administration, Printing, Payment, Policy Administration Service, Financial Service, and CRM Data Access."
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What are the resources have been defined?",
+    "Response": "",
+    "Expected Answer": "The resources defined are Enterprise-Wide CRM Automation (type: Resource), Integrated Back Office Automation (type: Resource), Social Media Apps (type: Resource), Staff with Social Media Competency (type: Resource), Data Analysis Automation (type: Resource), Data Sources (type: Resource), Staff with Data Analysis Competency (type: Resource)",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["Enterprise-Wide CRM Automation (type: Resource)", "Integrated Back Office Automation (type: Resource)", "Social Media Apps (type: Resource)", "Staff with Social Media Competency (type: Resource)", "Data Analysis Automation (type: Resource)", "Data Sources (type: Resource)", "Staff with Data Analysis Competency (type: Resource)"],
+    "Faithfulness Contexts": [
+      "The resources within the domain are Enterprise-Wide CRM Automation, Integrated Back Office Automation, Social Media Apps, Staff with Social Media Competency, Data Analysis Automation, Data Sources, Staff with Data Analysis Competency."
+    ],
+    "Classification": "Entity Only"
+  },    
+  {
+    "Question": "What is the name of the organization that is represented in the model?",
+    "Response": "The organization represented in the model is named ArchiSurance.",
+    "Expected Answer": "The organization represented in the model is ArchiSurance (type: BusinessActor).",
+    "Elements Used": ["ArchiSurance (type: BusinessActor)"],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["ArchiSurance (type: BusinessActor)"],
+    "Faithfulness Contexts": [
+      "Archisurance is name of the organization represented in the model."
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "Does the organization defined in the model have a mobile app?",
+    "Response": "",
+    "Expected Answer": "Yes ArchiSurance (type: BusinessActor) has a the MyArchiSurance Mobile App (type: ApplicationComponent).",
+    "Elements Used": [],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [ "ArchiSurance (type: BusinessActor)" ,"MyArchiSurance Mobile App (type: ApplicationComponent)"],
+    "Faithfulness Contexts": [
+      "ArchiSurance has a mobile app called MyArchiSurance Mobile App."
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What are the software interfaces within this domain?",
+    "Response": "",
+    "Expected Answer": "REST API (type: TechnologyInterface) is defined as a software interface.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": ["REST API (type: TechnologyInterface)"],
+    "Faithfulness Contexts": [
+      "REST API is a technology interface that acts as a software interface."
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What automation resources does the organization have?",
+    "Response": "",
+    "Expected Answer": "The organization has implemented automation in the form of Enterprise-Wide CRM Automation (type: Resource), Data Analysis Automation (type: Resource), and Integrated Back Office Automation (type: Resource).",
+    "Elements Used": [
+      "Data Analysis Automation AssignmentRelationship Data Analysis"
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Enterprise-Wide CRM Automation (type: Resource)",
+      "Data Analysis Automation (type: Resource)",
+      "Integrated Back Office Automation (type: Resource)"
+    ],
+    "Faithfulness Contexts": [
+      "The organization has automation in the form of Enterprise-Wide CRM Automation, Data Analysis Automation, and Integrated Back Office Automation"
+    ],
+    "Classification": "Entity Only"
+  },
+  {
+    "Question": "What are the specializations between entities that are present within the domain?",
+    "Response": "",
+    "Expected Answer": "In the model Travel Insurance Policy (type: BusinessObject), Homeowner Insurance Policy (type: BusinessObject), Auto Insurance Policy (type: BusinessObject), and Legal Insurance Policy (type: BusinessObject) are specializations of the Insurance Policy (type: BusinessObject), while Car Black Box (type: Equipment), Fitness Tracker (type: Equipment), Home Alarm (type: Equipment), and Smart Thermostat (type: Equipment) are specializations of IoT Device (type: Equipment).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Travel Insurance Policy (type: BusinessObject) SpecializationRelationship Insurance Policy (type: BusinessObject)",
+      "Homeowner's Insurance Policy (type: BusinessObject) SpecializationRelationship Insurance Policy (type: BusinessObject)",
+      "Auto Insurance Policy (type: BusinessObject) SpecializationRelationship Insurance Policy (type: BusinessObject)",
+      "Legal Insurance Policy (type: BusinessObject) SpecializationRelationship Insurance Policy (type: BusinessObject)",
+      "Car Black Box (type: Equipment) SpecializationRelationship IoT Devices (type: Equipment)",
+      "Fitness Tracker (type: Equipment) SpecializationRelationship IoT Devices (type: Equipment)",
+      "Home Alarm (type: Equipment) SpecializationRelationship IoT Devices (type: Equipment)",
+      "Smart Thermostat (type: Equipment) SpecializationRelationship IoT Devices (type: Equipment)"
+   ],
+    "Faithfulness Contexts": [
+      "Travel Insurance Policy (a business object) is a specialization of Insurance Policy (a business object).",
+      "Homeowner's Insurance Policy (a business object) is a specialization of Insurance Policy (a business object).",
+      "Auto Insurance Policy (a business object) is a specialization of Insurance Policy (a business object).",
+      "Legal Insurance Policy (a business object) is a specialization of Insurance Policy (a business object).",
+      "Car Black Box (an equipment) is a specialization of IoT Devices (an equipment).",
+      "Fitness Tracker (an equipment) is a specialization of IoT Devices (an equipment).",
+      "Home Alarm (an equipment) is a specialization of IoT Devices (an equipment).",
+      "Smart Thermostat (an equipment) is a specialization of IoT Devices (an equipment)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "What are the data flows that carry CRM Data?",
+    "Response": "",
+    "Expected Answer": "There is a flows that carries CRM data from General CRM system (type: ApplicationComponent) to web protal (type: ApplicationComponent) and from the Legal Expense CRM System (type: ApplicationComponent) to the web portal (type: ApplicationComponent).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "General CRM System (type: ApplicationComponent) FlowRelationship [CRM data] Web Portal (type: ApplicationComponent)",
+      "Legal Expense CRM System (type: ApplicationComponent) FlowRelationship [CRM data] Web Portal (type: ApplicationComponent)"
+   ],
+    "Faithfulness Contexts": [
+      "There is a flow between the General CRM System (an application component) and the Web Portal that carries CRM data (an application component).",
+      "There is a flow between the Legal Expense CRM System (an application component) and the Web Portal that carries CRM data (an application component)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "What are the relations that show the flow of money?",
+    "Response": "",
+    "Expected Answer": "There is a flow of money from Finance (type: BusinessFunction) to Invesment Management (type: BusinessFunction), from Investment Management (type: BusinessFunction) to Finance (type: BusinessFunction), from Investment Management (type: BusinessFunction) to Banking (type: BusinessFunction), and from Banking (type: BusinessFunction) to Investment Management (type: BusinessFunction).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Banking (type: BusinessFunction) FlowRelationship [money] Investment Management (type: BusinessFunction)",
+      "Finance (type: BusinessFunction) FlowRelationship [money] Investment Management (type: BusinessFunction)",
+      "Investment Management (type: BusinessFunction) FlowRelationship [money] Banking (type: BusinessFunction)",
+      "Investment Management (type: BusinessFunction) FlowRelationship [money] Finance (type: BusinessFunction)"
+   ],
+    "Faithfulness Contexts": [
+      "There is a flow of money from Banking (a business function) to Investment Management (a business function).",
+      "There is a flow of money from Investment Management (a business function) to Banking (a business function).",
+      "There is a flow of money from Investment Management (a business function) to Finance (a business function).",
+      "There is a flow of money from Finance (a business function) to Investment Management (a business function)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "Are there any flows that relate to the policies?",
+    "Response": "",
+    "Expected Answer": "Yes, there a flows of policies from Sales (type: BusinessFunction) to Buying Insurance (type: BusinessFunction), and from Underwriting (type: BusinessFunction) to Claims (type: BusinessFunction).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Sales (type: BusinessFunction) FlowRelationship [Policies] Buying Insurance (type: BusinessFunction)",
+      "Underwriting (type: BusinessFunction) FlowRelationship [Policies] Claims (type: BusinessFunction)"
+   ],
+    "Faithfulness Contexts": [
+      "Sales (a business function) sends Policies to Buying Insurance (a business function).",
+      "Underwriting (a business function) sends Policies to Claims (a business function)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "Are there any requests relations?",
+    "Response": "",
+    "Expected Answer": "Yes, There is a requests relationship from Buying Insurance (type: BusinessFunction) to Sales (type: BusinessFunction).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Buying Insurance (type: BusinessFunction) FlowRelationship [Requests] Sales (type: BusinessFunction)"
+   ],
+    "Faithfulness Contexts": [
+      "There is a flow of Requests from Buying Insurance (a business function) to Sales (a business function)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "Are there any document flows?",
+    "Response": "",
+    "Expected Answer": "Yes, There is flows of documents from Actuarial  to Document Processing, and from Document Processing to Actuarial, and the flow of document data from Document Managment System to Auto Insurance Application, Home & Away Financial Application, Home & Away Policy Administration, and Legal Expense Back-Office System ",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Actuarial (type: BusinessFunction) FlowRelationship [documents] Document Processing (type: BusinessFunction)",
+      "Document Processing (type: BusinessFunction) FlowRelationship [documents] Actuarial (type: BusinessFunction)",
+      "Document Managment System (type: ApplicationComponent) FlowRelationship [document data] Auto Insurance Application (type: ApplicationComponent)",
+      "Document Managment System (type: ApplicationComponent) FlowRelationship [document data] Home & Away Financial Application (type: ApplicationComponent)",
+      "Document Managment System (type: ApplicationComponent) FlowRelationship [document data] Home & Away Policy Administration (type: ApplicationComponent)",
+      "Document Managment System (type: ApplicationComponent) FlowRelationship [document data] Legal Expense Back-Office System (type: ApplicationComponent)"
+   ],
+    "Faithfulness Contexts": [
+      "Actuarial (a business function) sends Documents to Document Processing (a business function).",
+      "Document Processing (a business function) sends Documents to Actuarial (a business function).",
+      "Document Managment System (an application component) sends Document data to Auto Insurance Application (an application component).",
+      "Document Managment System (an application component) sends Document data to Home & Away Financial Application (an application component).",
+      "Document Managment System (an application component) sends Document data to Home & Away Policy Administration (an application component).",
+      "Document Managment System (an application component) sends Document data to Legal Expense Back-Office System (an application component)."
+    ],
+    "Classification": "Relation Only"
+  },
+  {
+    "Question": "What are the capabilites that are invloved in product management?",
+    "Response": "",
+    "Expected Answer": "Product Defintion (type: Capability) and Product Engineering (type: Capability) are invloved in Product Management (type: Capability).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Product Management (type: Capability) CompositionRelationship Product Defintion (type: Capability)",
+      "Product Management (type: Capability) CompositionRelationship Product Engineering (type: Capability)"
+   ],
+    "Faithfulness Contexts": [
+      "Product Defintion (a capability) is part of Product Management (a capability).",
+      "Product Engineering (a capability) is part of Product Management (a capability)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What capabilites are needed to market and sell products?",
+    "Response": "",
+    "Expected Answer": "The capabilites of Marketing, and Sales (type: Capability) and Distribution (type: Capability) are needed to market and sell products (type: ValueStream).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Marketing (type: Capability) ServingRelationship 02 Market and Sell Products (type: ValueStream)",
+      "Sales and Distribution (type: Capability) ServingRelationship 02 Market and Sell Products (type: ValueStream)"
+   ],
+    "Faithfulness Contexts": [
+      "Marketing is needed to market and sell products.",
+      "Sales and Distribution is needed to market and sell products."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What must happen after developing a product and before managing policies and claims?",
+    "Response": "",
+    "Expected Answer": "After Develop Products (type: ValueStream), Marekt and Sell (type: ValueStream) before Manage Policies and Claims (type: ValueStream).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "01 Develop Products (type: ValueStream) FlowRelationship 02 Market and Sell Products (type: ValueStream)",
+      "02 Market and Sell Products (type: ValueStream) FlowRelationship 03 Manage Policies and Claims (type: ValueStream)"
+   ],
+    "Faithfulness Contexts": [
+      "After developing a products (a Value Stream), it must be marketed and sold (a Value Stream).",
+      "Before managing policies and claims (a Value Stream), the products must be marketed and sold (a Value Stream)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What is must be done inoder to realize Customer Mamagement?",
+    "Response": "",
+    "Expected Answer": "Customer Relations (type: BusinessFunction) is needed to the realize cusomter management (type: Capability).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "Customer Relations (type: BusinessFunction) RealizationRelationship Customer Management (type: Capability)"
+   ],
+    "Faithfulness Contexts": [
+      "Cusomter Relation (a business function) is needed to realize customer management (a capability)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What are the drivers that influence the Board of Directors and the Customers and do they have any that are common?",
+    "Response": "",
+    "Expected Answer": "The drivers that influence the Board of Directors (type: Stakeholder) are Sales Target (type: Driver) and Customer Satisfaction (type: Driver), while the drivers that influence the Customers (type: Stakeholder) are Product Portfolio (type: Driver), Price (type: Driver), and Attractive Insurance Offering (type: Driver). They both have the common driver of Customer Satisfaction (type: Driver).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Expected Elements": [
+      "Sales Target (type: Driver) AssociationRelationship Board (type: Stakeholder)",
+      "Stakeholder Satisfaction (type: Driver) AssociationRelationship Board (type: Stakeholder)",
+      "Product Portfolio (type: Driver) AssociationRelationship Customer (type: Stakeholder)",
+      "Price (type: Driver) AssociationRelationship Customer (type: Stakeholder)",
+      "Customer satisfaction (type: Driver) AssociationRelationship Customer (type: Stakeholder)",
+      "Customer satisfaction (type: Driver) AssociationRelationship Customer (type: Stakeholder)", 
+      "Attractive Insurance Offering (type: Driver) AssociationRelationship Customer (type: Stakeholder)"
+    ],
+    "Faithfulness Contexts": [
+      "Sales Target, and Stakeholder Satisfaction are drivers that are associated to the Board, while Product Portfolio, and Price are drivers that are associated to the Customers, while thye both have the common driver of Customer Satisfaction."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "If there are a seqeunce of activites that are done to provide the customer with a insurance offering what are they and what business value do each of they contribute?",
+    "Response": "",
+    "Expected Answer": "The activities that are done to provide the customer with a insurance offering are 01 Develop Product (type: ValueStream) which results in Innovative Insurance Product (type: Value) and if followed by 02 Market and Sell Products (type: ValueStream) which results in Products offered and Sold to The Right Customers (type: Value) followed by 03 Manage Policies and Claims (type: ValueStream) which results in Products Perform According to Customer Expectations (type: Value) followed by 04 Serve Customers (type: ValueStream) which results in High Cusomter Satisfaction (type: Value).",
+    "Elements Used": [
+      "",
+      ""
+    ],
+    "Expected Elements": [
+      "(01 Develop Products (type: ValueStream) FlowRelationship 02 Market and Sell Products (type: ValueStream)) AssociationRelationship Innovative Insurance Products (type: Value)",
+      "(02 Market and Sell Products (type: ValueStream) FlowRelationship 03 Manage Policies and Claims (type: ValueStream)) AssociationRelationship Products offered and Sold to The Right Customers (type: Value)",
+      "(03 Manage Policies and Claims (type: ValueStream) FlowRelationship 04 Serve Customers (type: ValueStream)) AssociationRelationship Products Perform According to Customer Expectations (type: Value)",
+      "(04 Serve Customers (type: ValueStream) FlowRelationship 05 Provide Support (type: ValueStream)) AssociationRelationship High Customer Satisfaction (type: Value)"
+    ],
+    "Faithfulness Contexts": [
+      "There is a sequence of value streams that are done to provide the customer with an insurance offering which consists of Develop Product which is followed by Market and Sell Products which is followed by Manage Policies and Claims which is followed by Serve Customers.",
+      "The activity of Develop Product results in the value of Innovative Insurance Product.",
+      "The activity of Market and Sell Products results in the value of Products offered and Sold to The Right Customers.",
+      "The activity of Manage Policies and Claims results in the value of Products Performing According to Customer Expectations.",
+      "The activity of Serve Customers results in the value of High Customer Satisfaction."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What are the devices that are connected to the networks that are connected to ArchiSurance WAN",
+    "Response": "",
+    "Expected Answer": "Home and Away LAN (type: CommunicationNetwork), PROFIT LAN (type: CommunicationNetwork), and LegallyYours LAN (type: CommunicationNetwork) are networks connected to ArchiSurance WAN, while the devices that are connected to Home and Away LAN are ArchiSurance General-Purpose Server Cluster (type: Device), FO General-Purpose Server (type: Device), FO Web Hosting Server (type: Device), the device connected to LegallyYours LAN is Legal Expense General-Purpose Server (type: Device), and the devices connected to PROFIT LAN are Document Management Server (type: Device), Auto General-Purpose Server (type: Device), Document Management Back-Up Server (type: Device), and ArchiSurance General-Purpose Back-Up Server Cluster (type: Device).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "ArchiSurance WAN (type: CommunicationNetwork) AssociationRelationship Home & Away LAN (type: CommunicationNetwork)",
+    "ArchiSurance WAN (type: CommunicationNetwork) AssociationRelationship PRO-FIT LAN (type: CommunicationNetwork)",
+    "ArchiSurance WAN (type: CommunicationNetwork) AssociationRelationship LegallyYours LAN (type: CommunicationNetwork)", 
+    "Home & Away LAN (type: CommunicationNetwork) AssociationRelationship ArchiSurance General-Purpose Server Cluster (type: Device)", 
+    "Home & Away LAN (type: CommunicationNetwork) AssociationRelationship FO General-Purpose Server (type: Device)", 
+    "Home & Away LAN (type: CommunicationNetwork) AssociationRelationship FO Web Hosting Server (type: Device)", 
+    "PRO-FIT LAN (type: CommunicationNetwork) AssociationRelationship Legal Expense General-Purpose Server (type: Device)", 
+    "PRO-FIT LAN (type: CommunicationNetwork) AssociationRelationship Document Management Server (type: Device)", 
+    "LegallyYours LAN (type: CommunicationNetwork) AssociationRelationship Auto General-Purpose Server (type: Device)", 
+    "LegallyYours LAN (type: CommunicationNetwork) AssociationRelationship Document Management Back-Up Server (type: Device)", 
+    "LegallyYours LAN (type: CommunicationNetwork) AssociationRelationship ArchiSurance General-Purpose Back-Up Server Cluster (type: Device)"],
+    "Faithfulness Contexts": [
+      "Home & Away LAN, PRO-FIT LAN, and LegallyYours LAN are networks connected to ArchiSurance WAN (a network).",
+      "General-Purpose Server Cluster, FO General-Purpose Server, FO Web Hosting Server are all devices connected to Home & Away LAN (a network).",
+      "Legal Expense General-Purpose Server and Document Management Server are devices connected to PRO-FIT LAN (a network).",
+      "Auto General-Purpose Server, Document Management Back-Up Server, and ArchiSurance General-Purpose Back-Up Server Cluster are devices connected to LegallyYours LAN (a network)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What data does the Home and Away Policy Administration use?",
+    "Response": "",
+    "Expected Answer": "The Home and Away Policy Administration (type: ApplicationComponent) uses Customer Data (type: DataObject) accessed through the Customer Data Access (type: ApplicationFunction), Policy Data (type: DataObject) and Claim Data (type: DataObject) accessed through Policy Data Management (type: ApplicationFunction), and Document Data (type: DataObject) from the Document Management System (type: ApplicationComponent).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "Home and Away Policy Administration (type: ApplicationComponent) RealizationRelationship Customer Data Access (type: ApplicationFunction)",
+    "Customer Data Access (type: ApplicationFunction) AccessRelationship Customer Data (type: DataObject)",
+    "Home and Away Policy Administration (type: ApplicationComponent) RealizationRelationship Policy Data Management (type: ApplicationFunction)",
+    "Policy Data Management (type: ApplicationFunction) AccessRelationship Policy Data (type: DataObject)",
+    "Policy Data Management (type: ApplicationFunction) AccessRelationship Claim Data (type: DataObject)",
+    "Home and Away Policy Administration (type: ApplicationComponent) FlowRelationship Document Data (type: DataObject)"
+    ], 
+    "Faithfulness Contexts": [
+      "Home and Away Policy Administration uses Customer Data accessed through the Customer Data Access (which it realizes), Policy Data and Claim Data accessed through Policy Data Management (which it realizes), and Document Data."
+    ],
+    "Classification": "Entity and Relation"    
+  },
+  {
+    "Question": "What are the software services that are used to Handle a Claim?",
+    "Response": "",
+    "Expected Answer": "The software services that are used for L1 Handle Claim (type: BusinessProcess) are CRM Data Access (type: ApplicationService), Policy Administration Service (type: ApplicationService), and Financial Service (type: ApplicationService).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "CRM Data Access (type: ApplicationService) ServingRelationship L1 Handle Claim (type: BusinessProcess)",
+    "Policy Administration Service (type: ApplicationService) ServingRelationship L1 Handle Claim (type: BusinessProcess)",
+    "Financial Service (type: ApplicationService) ServingRelationship L1 Handle Claim (type: BusinessProcess)"
+    ], 
+    "Faithfulness Contexts": [
+      "Financial Service, CRM Data Access, and Policy Administration Service are software services that are used for Handling a Claim."
+    ],
+    "Classification": "Entity and Relation"    
+  },
+  {
+    "Question": "What resources are needed for managing digital channels?",
+    "Response": "",
+    "Expected Answer": "The resources needed for Digital Channel Management (type: Capability) are Social Media Apps (type: Resource) and Staff with Social Media Competency (type: Resource).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "Social Media Apps (type: Resource) AssignmentRelationship Digital Channel Management (type: Capability)",
+    "Staff with Social Media Competency (type: Resource) AssignmentRelationship Digital Channel Management (type: Capability)"
+    ], 
+    "Faithfulness Contexts": [
+      "Social Media Apps and Staff with Social Media Competency are both resources needed for Digital Channel Management (a capability)."
+    ],
+    "Classification": "Entity and Relation"    
+  },
+  {
+    "Question": "What externally located equipment are used?",
+    "Response": "",
+    "Expected Answer": "The equipment that are located in an External (type: Location) location used are Car Black Box (type: Equipment), Fitness Tracker (type: Equipment), Home Alarm (type: Equipment), IoT Devices (type: Equipment), and Smart Thermostat (type: Equipment).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "External (type: Location) CompositionRelationship Car Black Box (type: Equipment)",
+    "External (type: Location) CompositionRelationship Fitness Tracker (type: Equipment)",
+    "External (type: Location) CompositionRelationship IoT Devices (type: Equipment)",
+    "External (type: Location) CompositionRelationship Home Alarm (type: Equipment)",
+    "External (type: Location) CompositionRelationship Smart Thermostat (type: Equipment)"
+    ], 
+    "Faithfulness Contexts": [
+      "Car Black Box, Fitness Tracker, Home Alarm, IoT Devices, and Smart Thermostat are all equipment that are located in an External location."
+    ],
+    "Classification": "Entity and Relation"    
+  },
+  {
+    "Question": "Where is the call report sent from?",
+    "Response": "",
+    "Expected Answer": "The call report is sent from the Call Center Application (type: ApplicationComponent) to several other application components.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+    "Call Center Application (type: ApplicationComponent) FlowRelationship [call report] General CRM System (type: ApplicationComponent)",
+    "Call Center Application (type: ApplicationComponent) FlowRelationship [call report] Legal Expense CRM System (type: ApplicationComponent)",
+    "Call Center Application (type: ApplicationComponent) FlowRelationship [call report] Web Portal (type: ApplicationComponent)"
+  ], 
+    "Faithfulness Contexts": [
+      "The call report is sent by the Call Center Application (an application component) to the General CRM System, Legal Expense CRM System, and Web Portal which are all application components."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "How are resources realized?",
+    "Response": "",
+    "Expected Answer": "In the model Enterprise Wide CRM Automation (type: Resource) is realized by the General CRM System (type: ApplicationComponent), Staff with Data Analysis Competency (type: Resource) is realized by Customer Service (type: BusinessActor), Social Media Apps (type: Resource) is realized by MyArchiSurance Mobile App (type: ApplicationComponent), Integrated Back Office Automation (type: Resource) is realized by the Back Office Business Suite (type: ApplicationComponent), Data Source (type: Resource) is realized by the Data Management System (type: Resource) is realized by Smart Connected Devices (type: ApplicationComponent), Data Analysis Automation (type: Resource) is realized by the Data Warehosuing Solution (type: ApplicationComponent), and Staff with Social Media Competency (type: Resource) is realized by Business Intelligence Team (type: BusinessActor).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "General CRM System (type: ApplicationComponent) RealizationRelationship Enterprise-Wide CRM Automation (type: Resource)",
+      "Customer Service (type: BusinessActor) RealizationRelationship Staff with Data Analysis Competency (type: Resource)",
+      "MyArchiSurance Mobile App (type: ApplicationComponent) RealizationRelationship Social Media Apps (type: Resource)",
+      "Back Office Business Suite (type: ApplicationComponent) RealizationRelationship Integrated Back Office Automation (type: Resource)",
+      "Smart Connected Devices (type: ApplicationComponent) RealizationRelationship Data Sources (type: Resource)",
+      "Data Warehosuing Solution (type: ApplicationComponent) RealizationRelationship Data Analysis Automation (type: Resource)",
+      "Business Intelligence Team (type: BusinessActor) RealizationRelationship Staff with Social Media Competency (type: Resource)"
+    ], 
+    "Faithfulness Contexts": [
+      "General CRM System (an application component) realizes Enterprise Wide CRM Automation (a resource).",
+      "Customer Service (a business actor) realizes Staff with Data Analysis Competency (a resource).",
+      "MyArchiSurance Mobile App (an application component) realizes Social Media Apps (a resource).",
+      "Back Office Business Suite (an application component) realizes Integrated Back Office Automation (a resource).",
+      "Smart Connected Devices (an application component) realizes Data Sources (a resource).",
+      "Data Warehousing Solution (an application component) realizes Data Analysis Automation (a resource).",
+      "Business Intelligence Team (a business actor) realizes Staff with Social Media Competency (a resource)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What are the software components needed by the software that implements Integrated Back Office Automation?",
+    "Response": "",
+    "Expected Answer": "The ArchiSurance Back Office Suite (type: ApplicationComponent) implements Integrated Back Office Automation (type: Resource) and is composed of AUTO-U (type: ApplicationComponent), BRIMS (type: ApplicationComponent), P-ADMIN (type: ApplicationComponent), P-CONFIG (type: ApplicationComponent), VERSA-CLAIM (type: ApplicationComponent).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "ArchiSurance Back Office Suite (type: ApplicationComponent) RealizationRelationship Integrated Back Office Automation (type: Resource)",
+      "AUTO-U (type: ApplicationComponent) CompositionRelationship ArchiSurance Back Office Suite (type: ApplicationComponent)",
+      "BRIMS (type: ApplicationComponent) CompositionRelationship ArchiSurance Back Office Suite (type: ApplicationComponent)",
+      "P-ADMIN (type: ApplicationComponent) CompositionRelationship ArchiSurance Back Office Suite (type: ApplicationComponent)",
+      "P-CONFIG (type: ApplicationComponent) CompositionRelationship ArchiSurance Back Office Suite (type: ApplicationComponent)",
+      "VERSA-CLAIM (type: ApplicationComponent) CompositionRelationship ArchiSurance Back Office Suite (type: ApplicationComponent)"
+    ], 
+    "Faithfulness Contexts": [
+      "ArchiSurance Back Office Suite realizes Integrated Back Office Automation.",
+      "ArchiSurance Back Office Suite is composed of AUTO-U, BRIMS, P-ADMIN, P-CONFIG, and VERSA-CLAIM."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What are the Artifacts that are assigned to devices in the PRO-FIT Headquarters?",
+    "Response": "",
+    "Expected Answer": "The PRO-FIT Headquarters has a Auto General-Purpose Server (type: Device) that is assigned the Auto Insurance Implementation (type: Artifact), a Document Management Server which is assigned the DMS Implementation (type: Artifact), and ArchiSurance General-Purpose Back-Up Server Cluster (type: Device) with is assigned the Back Office Suite Implementation (type: Artifact).",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      "PRO-FIT Headquarters (type: Location) CompositionRelationship Auto Back Office (type: Grouping)",
+      "PRO-FIT Headquarters (type: Location) CompositionRelationship Shared Service Center (type: Grouping)",
+      "Auto Back Office (type: Grouping) CompositionRelationship Auto General-Purpose Server (type: Device)",
+      "Shared Service Center (type: Grouping) CompositionRelationship Document Management Server (type: Device)",
+      "Shared Service Center (type: Grouping) CompositionRelationship ArchiSurance General-Purpose Back-Up Server Cluster (type: Device)",
+      "Auto General-Purpose Server (type: Device) AssignmentRelationship Auto Insurance Implementation (type: Artifact)",
+      "Document Management Server (type: Device) AssignmentRelationship DMS Implementation (type: Artifact)",
+      "ArchiSurance General-Purpose Back-Up Server Cluster (type: Device) AssignmentRelationship Back Office Suite Implementation (type: Artifact)"
+    ], 
+    "Faithfulness Contexts": [
+      "PRO-FIT Headquarters is composed of Auto Back Office (a grouping) and Shared Service Center (a grouping).",
+      "Auto Back Office is composed of Auto General-Purpose Server (a device).",
+      "Shared Service Center is composed of Document Management Server (a device) and ArchiSurance General-Purpose Back-Up Server Cluster (a device).",
+      "Auto General-Purpose Server is assigned the Auto Insurance Implementation (an artifact).",
+      "Document Management Server is assigned the DMS Implementation (an artifact).",
+      "ArchiSurance General-Purpose Back-Up Server Cluster is assigned the Back Office Suite Implementation (an artifact)."
+    ],
+    "Classification": "Entity and Relation"
+  },
+  {
+    "Question": "What role does Anti Money Laundering play?",
+    "Response": "",
+    "Expected Answer": "Anti money laudering is not represented in any of the entities or relations in the model.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [
+      ""
+    ], 
+    "Faithfulness Contexts": [
+      ""
+    ],
+    "Classification": "Out of Scope"
+  },
+  {
+    "Question": "Which city is ArchiSurance Headquarters located in?",
+    "Response": "",
+    "Expected Answer": "The entities and relations do not provide any information about the location of ArchiSurance Headquarters.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [], 
+    "Faithfulness Contexts": [],
+    "Classification": "Out of Scope"
+  },
+  {
+    "Question": "Who is the CEO of ArchiSurance?",
+    "Response": "",
+    "Expected Answer": "The entites and relationships do not specfiy if a ArchiSurance has a CEO or who the CEO is if they exist.",
+    "Elements Used": [],
+    "Elements Included In Prompt": [],
+    "Expected Elements": [
+    ], 
+    "Faithfulness Contexts": [
+      "ArchiSurance offers Travel Insurance Policy, Homeowner Insurance Policy, Auto Insurance Policy, and Legal Insurance Policy."
+    ],
+    "Classification": "Out of Scope"
+  },
+  {
+    "Question": "How much money did ArchiSurance make in Q3 of 2023?",
+    "Response": "",
+    "Expected Answer": "The entities and relationships do not provide any information about the financial performance of ArchiSurance.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [], 
+    "Faithfulness Contexts": [],
+    "Classification": "Out of Scope"
+  },
+  {
+    "Question": "Does ArchiSurance allow workers to work from home?",
+    "Response": "",
+    "Expected Answer": "The entities and relationships do not provide any information about ArchiSurance's remote work policies.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [], 
+    "Faithfulness Contexts": [],
+    "Classification": "Out of Scope"
+  },
+  {
+    "Question": "What is the mission statement of ArchiSurance?",
+    "Response": "",
+    "Expected Answer": "The entities and relationships do not provide any information about the mission statement of ArchiSurance.",
+    "Elements Used": [""],
+    "Elements Included In Prompt": [""],
+    "Expected Elements": [], 
+    "Faithfulness Contexts": [],
+    "Classification": "Out of Scope"
+  }
+]
